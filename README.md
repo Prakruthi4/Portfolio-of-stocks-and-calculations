@@ -1,1 +1,4 @@
 # Portfolio-of-stocks-and-calculations
+
+Selection of five stocks, traded on Bombay Stock Exchange (BSE) or National Stock Exchange (NSE) and download of prices from yahoo finance
+Computation of Returns and Covariance matrix, and Beta for each of the five stocks selected.Calculation of portfolio mean, portfolio standard deviation and Sharpe Ratio for 100 portfolios and associated risk and return (portfolio mean) for each of the 100 portfolios.Performing Descriptive Statistics for the portfolio mean, portfolio standard deviation for the 100 portfolios and a graph showing the portfolio standard deviation versus the portfolio mean. Optimizing and finding efficient frontier. Obtaining the mean-variance efficient portfolio by maximizing the portfolio mean for a given level of portfolio standard deviation
